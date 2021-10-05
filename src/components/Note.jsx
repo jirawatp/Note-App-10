@@ -1,4 +1,3 @@
-import React from 'react';
 import { string, number } from 'prop-types';
 import DeleteIcon from '@mui/icons-material/Delete';
 

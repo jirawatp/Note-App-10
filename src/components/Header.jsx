@@ -1,4 +1,3 @@
-import React from 'react';
 import CreateIcon from '@mui/icons-material/Create';
 
 function Header() {
